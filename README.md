@@ -1,6 +1,6 @@
 Esse projeto é baseado em Next.JS e Prisma.
 
-É utilizado nesse projeto NEXT.JS versão `14.0.4`.
+É utilizado nesse projeto NEXT.JS versão `14.0.4` e também o NODE versão `20.10.0`.
 
 ## Getting Started
 
